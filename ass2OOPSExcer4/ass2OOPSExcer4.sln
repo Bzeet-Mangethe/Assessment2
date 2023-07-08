@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ass2OOPSExcer4", "ass2OOPSExcer4\ass2OOPSExcer4.csproj", "{7C17A455-CA95-49E8-83DC-21140E6C236B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C17A455-CA95-49E8-83DC-21140E6C236B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C17A455-CA95-49E8-83DC-21140E6C236B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C17A455-CA95-49E8-83DC-21140E6C236B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C17A455-CA95-49E8-83DC-21140E6C236B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAFC7152-B241-4B78-90FD-F47EF5933BEE}
+	EndGlobalSection
+EndGlobal

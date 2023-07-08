@@ -1,0 +1,6 @@
+C:\Users\bhekanimasinga\Documents\ass2Assessment5\ass2Assessment5\bin\Debug\ass2Assessment5.exe.config
+C:\Users\bhekanimasinga\Documents\ass2Assessment5\ass2Assessment5\bin\Debug\ass2Assessment5.exe
+C:\Users\bhekanimasinga\Documents\ass2Assessment5\ass2Assessment5\bin\Debug\ass2Assessment5.pdb
+C:\Users\bhekanimasinga\Documents\ass2Assessment5\ass2Assessment5\obj\Debug\ass2Assessment5.csproj.CoreCompileInputs.cache
+C:\Users\bhekanimasinga\Documents\ass2Assessment5\ass2Assessment5\obj\Debug\ass2Assessment5.exe
+C:\Users\bhekanimasinga\Documents\ass2Assessment5\ass2Assessment5\obj\Debug\ass2Assessment5.pdb

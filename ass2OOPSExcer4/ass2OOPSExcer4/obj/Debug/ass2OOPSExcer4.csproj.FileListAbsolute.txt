@@ -1,0 +1,6 @@
+C:\Users\bhekanimasinga\Documents\ass2OOPSExcer4\ass2OOPSExcer4\bin\Debug\ass2OOPSExcer4.exe.config
+C:\Users\bhekanimasinga\Documents\ass2OOPSExcer4\ass2OOPSExcer4\bin\Debug\ass2OOPSExcer4.exe
+C:\Users\bhekanimasinga\Documents\ass2OOPSExcer4\ass2OOPSExcer4\bin\Debug\ass2OOPSExcer4.pdb
+C:\Users\bhekanimasinga\Documents\ass2OOPSExcer4\ass2OOPSExcer4\obj\Debug\ass2OOPSExcer4.csproj.CoreCompileInputs.cache
+C:\Users\bhekanimasinga\Documents\ass2OOPSExcer4\ass2OOPSExcer4\obj\Debug\ass2OOPSExcer4.exe
+C:\Users\bhekanimasinga\Documents\ass2OOPSExcer4\ass2OOPSExcer4\obj\Debug\ass2OOPSExcer4.pdb
